@@ -1,0 +1,179 @@
+[
+    {
+        "id": "73048",
+        "title": "Camera",
+        "price": "Rs. 15,000",
+        "details": "DSLR cameras",
+        "images": [
+            "cam1.jpg",
+            "cam2.jpg",
+            "cam3.jpg"
+        ]
+    },
+    {
+        "id": "77283",
+        "title": "shoes",
+        "price": "Rs. 18,000",
+        "details": "Nike | Converse",
+        "images": [
+            "shoes1.jpg",
+            "shoes2.jpg",
+            "shoes3.jpg"
+        ]
+    },
+    {
+        "id": "73056",
+        "title": "bag",
+        "price": "Rs. 20,000",
+        "details": "School | Office",
+        "images": [
+            "bag1.jpg",
+            "bag2.jpg",
+            "bag3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Watch",
+        "price": "Rs. 35,000",
+        "details": "Doxa's | Alpina",
+        "images": [
+            "watch1.jpg",
+            "watch2.jpg",
+            "watch3.jpg"
+        ]
+    },
+    {
+        "id": "73012",
+        "title": "Eyewear",
+        "price": "Rs. 10,000",
+        "details": "Man | Woman",
+        "images": [
+            "eyewear1.jpg",
+            "eyewear2.jpg",
+            "eyewear3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Mobile",
+        "price": "Rs. 100,000",
+        "details": "Apple | LG",
+        "images": [
+            "mob1.jpg",
+            "mob2.jpg",
+            "mob3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Laptop",
+        "price": "Rs. 15,000",
+        "details": "ASUS | Dell",
+        "images": [
+            "lap1.jpg",
+            "lap2.jpg",
+            "lap3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Shirts",
+        "price": "Rs. 15,000",
+        "details": "Shirt | T-Shirt",
+        "images": [
+            "shirt1.jpg",
+            "shirt2.jpg",
+            "shirt3.jpg"
+        ]
+    },
+    
+    {
+        "id": "73048",
+        "title": "Bottle",
+        "price": "Rs. 15,000",
+        "details": "Water bottle",
+        "images": [
+            "bot1.jpg",
+            "bot2.jpg",
+            "bot3.jpg"
+        ]
+    },
+    {
+        "id": "77283",
+        "title": "shoes",
+        "price": "Rs. 18,000",
+        "details": "Nike | Converse",
+        "images": [
+            "shoes1.jpg",
+            "shoes2.jpg",
+            "shoes3.jpg"
+        ]
+    },
+    {
+        "id": "73056",
+        "title": "bag",
+        "price": "Rs. 20,000",
+        "details": "School | Office",
+        "images": [
+            "bag1.jpg",
+            "bag2.jpg",
+            "bag3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Watch",
+        "price": "Rs. 35,000",
+        "details": "Doxa's | Alpina",
+        "images": [
+            "watch1.jpg",
+            "watch2.jpg",
+            "watch3.jpg"
+        ]
+    },
+    {
+        "id": "73012",
+        "title": "Eyewear",
+        "price": "Rs. 10,000",
+        "details": "Man | Woman",
+        "images": [
+            "eyewear1.jpg",
+            "eyewear2.jpg",
+            "eyewear3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Mobile",
+        "price": "Rs. 100,000",
+        "details": "Apple | LG",
+        "images": [
+            "mob1.jpg",
+            "mob2.jpg",
+            "mob3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Laptop",
+        "price": "Rs. 15,000",
+        "details": "ASUS | Dell",
+        "images": [
+            "lap1.jpg",
+            "lap2.jpg",
+            "lap3.jpg"
+        ]
+    },
+    {
+        "id": "73052",
+        "title": "Shirts",
+        "price": "Rs. 15,000",
+        "details": "Shirt | T-Shirt",
+        "images": [
+            "shirt1.jpg",
+            "shirt2.jpg",
+            "shirt3.jpg"
+        ]
+    }
+]

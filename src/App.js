@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import React from "react";
+import Header from "./components/Header";
+import LeftPane from "./components/LeftPane";
+import RightPane from "./components/RightPane";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container-fluid p-0 full-height">
+    <Header />
+    <div className="row no-gutters full-height">
+      <div className="col-12 col-md-6 p-3">
+        <div className="pane-container">
+          <LeftPane />
+        </div>
+      </div>
+      <div className="col-12 col-md-6 p-3">
+        <div className="pane-container">
+          <RightPane />
+        </div>
+      </div>
     </div>
+  </div>
   );
-}
+};
 
 export default App;

@@ -1,0 +1,38 @@
+
+  .left-pane {
+    padding: 20px;
+    background-color: #fff;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  .table-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  .summary-section {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+
+  .button-custom {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 20%;
+  }
+  
+  .button-des {
+    background-color: #4279cc;
+    color: white;
+  }

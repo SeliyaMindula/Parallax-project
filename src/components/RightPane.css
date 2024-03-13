@@ -1,0 +1,33 @@
+.right-pane{
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.button-custom {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 20%;
+  }
+  
+  .button-cash {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button-pay {
+    background-color: #FFCA28;
+    color: black;
+  }
+
+  .custom-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
